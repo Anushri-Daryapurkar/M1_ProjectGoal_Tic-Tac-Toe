@@ -18,14 +18,18 @@
 |L_03    |   Check if a total of 9 moves have been made( combining that of user and computer), the game ends up in a draw.           |  9 inputs from (user+computer).       |                The game is over.        |
 
  </br>
+ </br>
 
 # OUTPUT
+
 ### User Win
 ![Playerwin](https://user-images.githubusercontent.com/98867361/153206836-1a56ecb8-00a1-44ad-be40-f045c5d3b983.png)
+ </br>
  </br>
  
 ### Computer Win
 ![Computerwin](https://user-images.githubusercontent.com/98867361/153206885-a023c2ed-bf6c-49f1-87a3-bfb679379cd6.png)
+ </br>
  </br>
  
 ### Game Draw
