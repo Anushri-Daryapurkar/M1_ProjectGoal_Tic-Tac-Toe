@@ -1,6 +1,6 @@
 # **ARCHITECTURE**
 ## **STURCTURAL DIAGRAM**
-   ![swot](Structural_Dia.png)
+   ![structural_dia](Structural_Dia.png)
    </br>
    </br>
    
