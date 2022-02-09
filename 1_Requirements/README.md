@@ -1,4 +1,4 @@
-## **INTRODUCTION**
+# **INTRODUCTION**
 >In this tic tac toe on c, both players must enter a particular number one to nine based on the grid position in order to make a mark X or O. In the tic tac toe game,winner will be the first player who successfully position three of their marks in a horizontal, vertical, or diagonal row.
 >This game is build using C language
 <br/>
@@ -29,7 +29,7 @@ Tic Tac Toe was brought to the digital world in 1952 as a game called “OXO.”
 -	When all 9 squares are full, the game is over. If no player has 3 marks in a row, the game ends in a tie.
 </br>
 
-## **4W's and 1'H**
+# **4W's and 1'H**
 ## Who:
 
 - People of any age group can play this game.
