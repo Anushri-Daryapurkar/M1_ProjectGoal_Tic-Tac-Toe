@@ -57,10 +57,10 @@ Tic Tac Toe was brought to the digital world in 1952 as a game called “OXO.”
 
 | ID | Description | 
 | ----- | ----- | 
-| HR01 | User shall be able to choose 'X'or 'O' to play |
-| HR02 | User shall be able to Exit the game |
-| HR03 | User shall win or lose|
-| HR04 | User shall end up in a Draw situation|
+| HR01 | User should be able to choose 'X'or 'O' to play |
+| HR02 | User should be able to Exit the game |
+| HR03 | User should win or lose|
+| HR04 | User should end up in a Draw situation|
 
 ##  Low level Requirements:
 
