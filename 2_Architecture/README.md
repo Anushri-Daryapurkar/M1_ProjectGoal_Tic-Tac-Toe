@@ -1,6 +1,6 @@
 # **ARCHITECTURE**
 ## **STURCTURAL DIAGRAM**
-   ![structural_dia](Structural_Dia.png)
+   ![Structural_Dia](Structural_Dia.png)
    </br>
    </br>
    
