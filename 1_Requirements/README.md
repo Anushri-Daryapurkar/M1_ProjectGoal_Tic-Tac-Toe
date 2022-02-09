@@ -3,13 +3,13 @@
 >This game is build using C language
 <br/>
 
-## **FEATURES**
+# **FEATURES**
 1. Single player with computer as second player
 2. Display "Winner" (User or Computer)
 3. Display "Game Draw" if no chances left
 </br>
 
-## **RESEARCH**
+# **RESEARCH**
 Fast-forward about 30 years when the first printed reference to “tick-tack-toe” was recorded. It was defined as "a children's game played on a slate” and is played while “trying with the eyes shut to bring the pencil down on one of the numbers of a set, the number hit being scored.”
 
 The modern spelling of Tic Tac Toe didn’t come into play until the early 20th century in the United States, where it was renamed from the British Noughts and Crosses. 
@@ -18,7 +18,7 @@ Tic Tac Toe was brought to the digital world in 1952 as a game called “OXO.”
 </br>
 </br>
 
-## **RULES FOR TIC-TAC-TOE**
+# **RULES FOR TIC-TAC-TOE**
 
 - The game is played on a grid that's 3 squares by 3 squares.
 
@@ -76,6 +76,7 @@ Tic Tac Toe was brought to the digital world in 1952 as a game called “OXO.”
 | LR08 | If the total number of moves, i.e., 9 moves have been completed and neithe the user nor the computer has won, it'll end up in a draw. | HR04 |
 
 
-## **SWOT ANALYSIS**
+
+# **SWOT ANALYSIS**
 
    ![swot](swot.png)
