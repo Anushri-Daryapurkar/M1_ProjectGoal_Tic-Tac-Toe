@@ -4,7 +4,9 @@
 
 ## **FEATURES**
 1. Single player with computer as second player
+
 2. Display "Winner" (User or Computer)
+
 3. Display "Game Draw" if no chances left
 </br>
 
@@ -29,23 +31,23 @@ Tic Tac Toe was brought to the digital world in 1952 as a game called “OXO.”
 </br>
 
 ## **4W's and 1'H**
-### Who:
+### Who
 
 - People of any age group can play this game.
 
-### What:
+### What
 
 - It is played on computer rather than pen and paper, so that environment friendly too.
 
-### When:
+### When
 
 - A person needs to have access to a computer to play this game at any point of time.
 
-### Where:
+### Where
 
 - To play, this game needs to be installed on computer.
 
-### How:
+### How
 
 - The game is played between two players where one player make the move by 'X'  and another by '0' and after meeting certain conditions a player is declared as winner or the game is drawn.
 <br/>
