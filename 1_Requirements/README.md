@@ -3,13 +3,13 @@
 <br/>
 
 ## **FEATURES**
-1. Single player with computer as second player
 
+1. Single player with computer as second player
 
 2. Display "Winner" (User or Computer)
 
-
 3. Display "Game Draw" if no chances left
+</br>
 </br>
 
 ## **RESEARCH**
@@ -57,7 +57,6 @@ Tic Tac Toe was brought to the digital world in 1952 as a game called “OXO.”
 ## **Detailed Requirements**
 
 ## **High Level Requirements**
-
 | ID | Description | 
 | ----- | ----- | 
 | HR01 | User should be able to choose 'X' or 'O' to play |
@@ -65,8 +64,7 @@ Tic Tac Toe was brought to the digital world in 1952 as a game called “OXO.”
 | HR03 | User should win or lose|
 | HR04 | User should end up in a Drawn situation|
 
-##  Low level Requirements:
-
+## **Low level Requirements**
 | ID | Description | HLR ID |
 | ------ | --------- | ------ |
 | LR01 | If the user presses '1', he'll be play with 'X'. | HR01 |
@@ -79,7 +77,5 @@ Tic Tac Toe was brought to the digital world in 1952 as a game called “OXO.”
 | LR08 | If the total number of moves, i.e., 9 moves have been completed and neithe the user nor the computer has won, it'll end up in a draw. | HR04 |
 
 
-
 ## **SWOT ANALYSIS**
-
    ![swot](swot.png)
