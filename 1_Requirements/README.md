@@ -79,4 +79,4 @@ Tic Tac Toe was brought to the digital world in 1952 as a game called “OXO.”
 
 
 ## **SWOT ANALYSIS**
-   ![swot](swot.png)
+![swot](swot.png)
