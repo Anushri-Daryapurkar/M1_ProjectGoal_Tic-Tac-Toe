@@ -25,7 +25,9 @@
 ![Computerwin](https://user-images.githubusercontent.com/98867361/153206885-a023c2ed-bf6c-49f1-87a3-bfb679379cd6.png)
  </br>
  </br>
- 
+
 ### Game Draw
 ![Gamedraw](https://user-images.githubusercontent.com/98867361/153206916-3ac6d8ab-1aef-4f6a-8add-aa8b344ac1ef.png)
+ </br> 
+ </br>
 
