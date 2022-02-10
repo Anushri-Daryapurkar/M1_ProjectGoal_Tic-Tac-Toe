@@ -5,7 +5,9 @@
 ## **FEATURES**
 1. Single player with computer as second player
 
+
 2. Display "Winner" (User or Computer)
+
 
 3. Display "Game Draw" if no chances left
 </br>
