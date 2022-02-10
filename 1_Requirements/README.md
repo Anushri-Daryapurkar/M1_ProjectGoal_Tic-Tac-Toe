@@ -23,13 +23,13 @@ Tic Tac Toe was brought to the digital world in 1952 as a game called “OXO.”
 
 ## **RULES FOR TIC-TAC-TOE**
 
-- The game is played on a grid that's 3 squares by 3 squares.
+-The game is played on a grid that's 3 squares by 3 squares.
 
-- You are X, your friend (or the computer in this case) is O. Players take turns putting their marks in empty squares.
+-You are X, your friend (or the computer in this case) is O. Players take turns putting their marks in empty squares.
 
-- The first player to get 3 of her marks in a row (Vertical, Horizontal or Diagonally) is the winner.
+-The first player to get 3 of her marks in a row (Vertical, Horizontal or Diagonally) is the winner.
 
--	When all 9 squares are full, the game is over. If no player has 3 marks in a row, the game ends in a tie.
+-When all 9 squares are full, the game is over. If no player has 3 marks in a row, the game ends in a tie.
 </br>
 
 ## **4W's and 1'H**
@@ -76,7 +76,6 @@ Tic Tac Toe was brought to the digital world in 1952 as a game called “OXO.”
 | LR06 | If the computer gets 3 Xs or 3 Os in vertical,horizontal or diagonal row, User will lose. | HR03 |
 | LR07 | If the user gets 3 Xs or 3 Os(as per his choice), in vertical,horizontal or diagonal row, User will win. | HR03 |
 | LR08 | If the total number of moves, i.e., 9 moves have been completed and neithe the user nor the computer has won, it'll end up in a draw. | HR04 |
-
 
 ## **SWOT ANALYSIS**
 ![swot](swot.png)
