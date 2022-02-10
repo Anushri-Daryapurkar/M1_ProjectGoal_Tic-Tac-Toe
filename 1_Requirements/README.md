@@ -1,6 +1,5 @@
 # **INTRODUCTION**
->In this tic tac toe on c, both players must enter a particular number one to nine based on the grid position in order to make a mark X or O. In the tic tac toe game,winner will be the first player who successfully position three of their marks in a horizontal, vertical, or diagonal row.
->This game is build using C language
+>In this tic tac toe on c, both players must enter a particular number one to nine based on the grid position in order to make a mark X or O. In the tic tac toe game,winner will be the first player who successfully position three of their marks in a horizontal, vertical, or diagonal row. This game is build using C language
 <br/>
 
 # **FEATURES**
