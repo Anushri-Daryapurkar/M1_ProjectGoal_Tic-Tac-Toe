@@ -36,23 +36,23 @@ Tic Tac Toe was brought to the digital world in 1952 as a game called “OXO.”
 
 ### Who
 
-- People of any age group can play this game.
+-People of any age group can play this game.
 
 ### What
 
-- It is played on computer rather than pen and paper, so that environment friendly too.
+-It is played on computer rather than pen and paper, so that environment friendly too.
 
 ### When
 
-- A person needs to have access to a computer to play this game at any point of time.
+-A person needs to have access to a computer to play this game at any point of time.
 
 ### Where
 
-- To play, this game needs to be installed on computer.
+-To play, this game needs to be installed on computer.
 
 ### How
 
-- The game is played between two players where one player make the move by 'X'  and another by '0' and after meeting certain conditions a player is declared as winner or the game is drawn.
+-The game is played between two players where one player make the move by 'X'  and another by '0' and after meeting certain conditions a player is declared as winner or the game is drawn.
 <br/>
 
 ## **Detailed Requirements**
