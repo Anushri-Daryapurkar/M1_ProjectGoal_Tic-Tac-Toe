@@ -1,6 +1,5 @@
 # TEST PLAN
 ## Table: High level test plan
-
 |Test ID | Description | Exp I/P | Exp O/P |
 |--------|-------------|---------|---------|
 |H_01    |  Check whether the grid being drawn or not.           |    No input.     |      3*3 grid is drawn.   |
@@ -8,7 +7,6 @@
 |H_03    | Check for draw.            |   9 inputs from (User+Computer).      |     The game is over.    |
 
 ## Table: Low level test plan
-
 |Test ID | Description | Exp I/P | Exp O/P |
 |--------|-------------|---------|---------|
 |L_01    | Checking for the basic requirement to the game, i.e., a 3*3 grid is drawn or not. |    Not input expected from the user. |  3*3 graph is drawn.  |
@@ -18,7 +16,6 @@
  </br>
 
 ## OUTPUT
-
 ### User Win
 ![Playerwin](https://user-images.githubusercontent.com/98867361/153206836-1a56ecb8-00a1-44ad-be40-f045c5d3b983.png)
  </br>
