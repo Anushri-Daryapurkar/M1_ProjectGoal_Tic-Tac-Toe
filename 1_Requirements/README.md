@@ -2,13 +2,13 @@
 >In this tic tac toe on c, both players must enter a particular number one to nine based on the grid position in order to make a mark X or O. In the tic tac toe game,winner will be the first player who successfully position three of their marks in a horizontal, vertical, or diagonal row. This game is build using C language
 <br/>
 
-# **FEATURES**
+## **FEATURES**
 1. Single player with computer as second player
 2. Display "Winner" (User or Computer)
 3. Display "Game Draw" if no chances left
 </br>
 
-# **RESEARCH**
+## **RESEARCH**
 Fast-forward about 30 years when the first printed reference to “tick-tack-toe” was recorded. It was defined as "a children's game played on a slate” and is played while “trying with the eyes shut to bring the pencil down on one of the numbers of a set, the number hit being scored.”
 
 The modern spelling of Tic Tac Toe didn’t come into play until the early 20th century in the United States, where it was renamed from the British Noughts and Crosses. 
@@ -17,7 +17,7 @@ Tic Tac Toe was brought to the digital world in 1952 as a game called “OXO.”
 </br>
 </br>
 
-# **RULES FOR TIC-TAC-TOE**
+## **RULES FOR TIC-TAC-TOE**
 
 - The game is played on a grid that's 3 squares by 3 squares.
 
@@ -28,29 +28,29 @@ Tic Tac Toe was brought to the digital world in 1952 as a game called “OXO.”
 -	When all 9 squares are full, the game is over. If no player has 3 marks in a row, the game ends in a tie.
 </br>
 
-# **4W's and 1'H**
-## Who:
+## **4W's and 1'H**
+### Who:
 
 - People of any age group can play this game.
 
-## What:
+### What:
 
 - It is played on computer rather than pen and paper, so that environment friendly too.
 
-## When:
+### When:
 
 - A person needs to have access to a computer to play this game at any point of time.
 
-## Where:
+### Where:
 
 - To play, this game needs to be installed on computer.
 
-## How:
+### How:
 
 - The game is played between two players where one player make the move by 'X'  and another by '0' and after meeting certain conditions a player is declared as winner or the game is drawn.
 <br/>
 
-# **Detailed Requirements**
+## **Detailed Requirements**
 
 ## **High Level Requirements**
 
@@ -76,6 +76,6 @@ Tic Tac Toe was brought to the digital world in 1952 as a game called “OXO.”
 
 
 
-# **SWOT ANALYSIS**
+## **SWOT ANALYSIS**
 
    ![swot](swot.png)
