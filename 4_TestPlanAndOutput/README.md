@@ -17,17 +17,17 @@
 
 ## OUTPUT
 ### User Win
-![Playerwin](https://user-images.githubusercontent.com/98867361/153206836-1a56ecb8-00a1-44ad-be40-f045c5d3b983.png)
+![Playerwin (2)](https://user-images.githubusercontent.com/98867361/153548990-38685bbb-7392-448c-b2fd-f3df8a0b89c6.png)
  </br>
  </br>
  
 ### Computer Win
-![Computerwin](https://user-images.githubusercontent.com/98867361/153206885-a023c2ed-bf6c-49f1-87a3-bfb679379cd6.png)
+![Computerwin (2)](https://user-images.githubusercontent.com/98867361/153549099-464fabc4-456a-46e3-8e3e-efc104cd79ea.png)
  </br>
  </br>
 
 ### Game Draw
-![Gamedraw](https://user-images.githubusercontent.com/98867361/153206916-3ac6d8ab-1aef-4f6a-8add-aa8b344ac1ef.png)
+![Gamedraw (2)](https://user-images.githubusercontent.com/98867361/153549169-c6330ede-9d26-4694-bd78-609e8c098a25.png)
  </br> 
  </br>
 
