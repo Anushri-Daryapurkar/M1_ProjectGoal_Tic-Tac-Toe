@@ -3,14 +3,7 @@ TEST_PROJ_NAME = Test_$(PROJ_NAME)
 
 BUILD_DIR = Build
 
-SRC = src/main.c
-
-
-TEST_SRC = test.c\
-unity/unity.c
-
-INC = -Iinc\
--Iunity
+SRC = src/tictactoe.c src/project_main.c test/test_game_operations.c unity/unity.c
 
 
 ifdef OS
@@ -41,7 +34,7 @@ test: $(SRC) $(TEST_SRC)
 coverage:${PROJECT_NAME}
 	gcc -fprofile-arcs -ftest-coverage $(SRC) $(INC) -o $(call FixPath,$(BUILD_DIR)/$(TEST_PROJ_NAME).$(EXEC))
 	$(call FixPath,$(BUILD_DIR)/$(TEST_PROJ_NAME).$(EXEC))
-	gcov -a $(SRC)
+	gcov -a src/tictactoe.c src/project_main.c
 
 doc:
 	make -C doc
